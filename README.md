@@ -1,4 +1,4 @@
-# SILAM european air quality siulation
+# SILAM European air quality simulation
 
 A standalone setup for regional AQ simulation.
 Replicates the SILAM CAMS_REG forecast of 20230708.
@@ -7,7 +7,7 @@ Replicates the SILAM CAMS_REG forecast of 20230708.
 ## Files here
 
 
- - `EU-short.control`   Control file for 24-h long 0.5x0.5-deg simulation. Shuld be runnable
+ - `EU-short.control`   Control file for 24-h long 0.5x0.5-deg simulation. Should be runnable
             at not-too-ancient computer within some minutes. Requires about 6GB of RAM. 
  -  `EU.control`       Control file for 120-h long 0.1x0.1-deg simulation, similar to 
                         one provided for CAMS_REGIONAL. Requires some x100 more CPU resources 
@@ -37,7 +37,7 @@ https://silam-testcase-assets.lake.fmi.fi/EU_TEST-assets-20250121.tar.bz2
 
 6. Enjoy the warmth from your CPU
 
-7. The resuts and log files should come to the `output/AQ_europe_lr_short` directory
+7. The results and log files should come to the `output/AQ_europe_lr_short` directory
 
 8. Use your favourite tools to inspect the output
 
